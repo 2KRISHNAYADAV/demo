@@ -1,14 +1,15 @@
 
 
 
-![main_title](https://github.com/user-attachments/assets/2c7ee4c7-58f5-412f-ba48-f7f4a90bab63)
+![main_title](https://github.com/user-attachments/assets/53952526-cbb8-44a7-9c4a-03cc2eec35ec)
+
 
 
 
 
 # Bharatiya Antariksh Hackathon 2025
 
-## 🚀 Team: Zero gravity gurus  
+##  Team: Zero gravity gurus  
 **Team Leader:** Krishna  
 **Problem Statement 10 :** Identifying Halo CME Events Based on Particle Data from SWIS-ASPEX Payload onboard Aditya-L1
 
@@ -36,19 +37,19 @@ By analyzing:
 
 We classify events as **CME vs Non-CME** using **Transformer-based deep learning models** with high temporal resolution.
 
-🎯 **End Goal**:  
+ **End Goal**:  
 Live alerts and interactive dashboards that enable ISRO to take preventive measures against space weather threats.
 
 ---
 
-## 🔍 Opportunity & Uniqueness
+##  Opportunity & Uniqueness
 
-### ✅ How it’s different:
+###  How it’s different:
 - Bypasses traditional **threshold/image-based methods**
 - Uses **real-time particle data**
 - Powered by **attention-based AI**
 
-### ✅ Problem Solving Approach:
+###  Problem Solving Approach:
 - Early detection **directly from L1 SWIS data**
 - Enables **timely alerts**
 - Transparent & adaptable model
@@ -70,7 +71,7 @@ All source code, models, diagrams, and research  will be maintained at:
 
 ---
 
-## 🧰 Features of Our Solution
+##  Features of Our Solution
 
 - Real-time CME detection via particle data
 - Transformer-based AI classifier
@@ -83,7 +84,7 @@ All source code, models, diagrams, and research  will be maintained at:
 
 ---
 
-## 🔁 Process Flow Diagram
+## Process Flow Diagram
 
 ```
    SWIS Level-2 Particle Data
@@ -104,11 +105,13 @@ All source code, models, diagrams, and research  will be maintained at:
 ```
 
 📷  
-![Process Flow Diagram](https://github.com/user-attachments/assets/ca8eeff5-e831-4f1b-b799-97f552ce1871)
+![Jun 24, 2025, 11_25_26 PM](https://github.com/user-attachments/assets/4c55e6ab-8cdf-46ed-8fc1-205af9aa026c)
+
+
 
 ---
 
-## 🧪 Wireframes & Mockups
+##  Wireframes & Mockups
 
 - 📊 CME Dashboard
 - 📈 Real-time graphs
@@ -117,7 +120,8 @@ All source code, models, diagrams, and research  will be maintained at:
 - 🔔 Alert Configurator
 
 🖼️  
-![Dashboard Mockup](https://github.com/user-attachments/assets/69bbd863-e1d1-42fb-934d-248e1b4f269d)
+
+![ChatGPT Image Jun 24, 2025, 11_30_44 PM](https://github.com/user-attachments/assets/97a0e001-32c4-4e8f-bbdc-b3ab240e391c)
 
 ---
 
@@ -139,13 +143,12 @@ All source code, models, diagrams, and research  will be maintained at:
 
 ## 💸 Estimated Implementation Cost (Optional)
 
-(Include details if required for budget proposal, e.g., cloud compute, API costs, etc.)
+![astronote](https://github.com/user-attachments/assets/cbd57960-f1ea-4a7c-ae77-92c3d75acb02)
 
 
 
 
 
 
-![astronote](https://github.com/user-attachments/assets/bc43411d-f03a-4521-96d3-ec72be5bd1cd)
 
 
