@@ -1,7 +1,7 @@
 
 ![main_title](https://github.com/user-attachments/assets/53952526-cbb8-44a7-9c4a-03cc2eec35ec)
 
-# 🚀 Bharatiya Antariksh Hackathon 2025
+# Bharatiya Antariksh Hackathon 2025
 
 ## 👨‍🚀 Team: Zero Gravity Gurus  
 **Team Leader:** Krishna  
@@ -102,7 +102,8 @@ Live alerts and interactive dashboards to empower ISRO with actionable space wea
 ```
 
 📷  
-![Jun 24, 2025, 11_25_26 PM](https://github.com/user-attachments/assets/4c55e6ab-8cdf-46ed-8fc1-205af9aa026c)
+![ChatGPT Image Jun 25, 2025, 11_15_11 PM](https://github.com/user-attachments/assets/c4d556a9-caed-4d53-a3fa-388aa042ade3)
+
 
 ---
 
@@ -114,7 +115,8 @@ Live alerts and interactive dashboards to empower ISRO with actionable space wea
 - 🔥 SHAP & attention visualizer
 - 🔔 Alert settings (Telegram, Email)
 
-![ChatGPT Image Jun 24, 2025, 11_30_44 PM](https://github.com/user-attachments/assets/97a0e001-32c4-4e8f-bbdc-b3ab240e391c)
+![ChatGPT Image Jun 25, 2025, 11_32_30 PM](https://github.com/user-attachments/assets/84720066-dfea-4bd8-b8df-05f2c684889e)
+
 
 ---
 
