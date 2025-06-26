@@ -100,9 +100,8 @@ Live alerts and interactive dashboards to empower ISRO with actionable space wea
              ↓
   Validation (CACTUS / NASA)
 ```
+![Flow_diagram](https://github.com/user-attachments/assets/871c7c57-a8ea-49a4-b3e1-a97ff3d8192c)
 
-📷  
-![ChatGPT Image Jun 25, 2025, 11_15_11 PM](https://github.com/user-attachments/assets/c4d556a9-caed-4d53-a3fa-388aa042ade3)
 
 
 ---
